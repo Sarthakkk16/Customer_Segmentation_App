@@ -10,6 +10,6 @@ This project applies unsupervised machine learning to perform customer segmentat
 - seaborn
 - joblib
 
-# *Data Info*
+# *Data Columns*
 
 ![](https://github.com/Sarthakkk16/Customer_Segmentation_App/blob/main/Screenshot%202025-11-05%20095814.png)
